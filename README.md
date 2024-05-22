@@ -10,7 +10,7 @@ _______________
 
 <h3 align="center" <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Typing+%22about+me%22+..." alt="Typing SVG" /></a> </h3>
 
-° <img src="https://github.com/DianaN7/DianaN7/assets/118924554/c4c94170-2c36-43e3-9d9a-2968bc4183af" width="20" height="20" /> Я начинающий фронтенд разработчик, готовый к новым проектам и реализациям
+° <img src="https://github.com/DianaN7/DianaN7/assets/118924554/c4c94170-2c36-43e3-9d9a-2968bc4183af" width="20" height="20" /> Я фронтенд разработчица, готовая к новым проектам и реализациям
 
 ° <img src="https://github.com/DianaN7/DianaN7/assets/118924554/dfcb148b-1737-474d-ac51-7c7809e6dd87"  width="20" height="20"/> Сейчас я изучаю бэкенд для полного и системного понимания процессов разработки приложений/сервисов
 
