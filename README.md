@@ -18,3 +18,8 @@ _______________
   
 ° <img src="https://github.com/DianaN7/DianaN7/assets/118924554/6ac9dd57-cbe6-46a2-9cb8-aec0c26f974c"  width="20" height="20"/> Связаться со мной можно через почту 12diana13@gmail.com или, найдя меня в телеграмме по юзернейму - bltgks 
 
+° <img src="https://github.com/DianaN7/DianaN7/assets/118924554/33a57860-85ae-4e6b-b39b-8254d36c4045"  width="20" height="20"/> Посмотреть мое портфолио можно <a href="https://portfolio-diana-nagimovas-projects.vercel.app/">по этой ссылке</a>
+
+
+
+
